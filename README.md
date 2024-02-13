@@ -1,16 +1,17 @@
-### Hi there 👋
+# VENGATESHWARAN N
 
-<!--
-**003vengatesh/003vengatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About Me 👨‍💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Data Science Intern at CodSoft.
+
+### 🚀 Aspiring Data Scientist with a passion for transforming data into actionable insights.
+
+### 💻 Proficient in Python, R, SQL for data analysis and machine learning.
+
+### 📊 Skilled in data visualization using Matplotlib, Seaborn, and Plotly.
+
+### 🔬 Experienced in applying statistical methods.
+
+### 📧 Let's connect! nvengatesh486@gmail.com
+
