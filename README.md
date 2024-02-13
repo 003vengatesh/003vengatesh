@@ -1,7 +1,7 @@
-## VENGATESHWARAN N
+# VENGATESHWARAN N
 
 
-### About Me 👨‍💼
+## About Me 👨‍💼
 
 #### 🎓 Data Science Intern at CodSoft.
 
