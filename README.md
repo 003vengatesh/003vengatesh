@@ -1,17 +1,17 @@
-# VENGATESHWARAN N
+## VENGATESHWARAN N
 
 
-# About Me 👨‍💼
+### About Me 👨‍💼
 
-### 🎓 Data Science Intern at CodSoft.
+#### 🎓 Data Science Intern at CodSoft.
 
-### 🚀 Aspiring Data Scientist with a passion for transforming data into actionable insights.
+#### 🚀 Aspiring Data Scientist with a passion for transforming data into actionable insights.
 
-### 💻 Proficient in Python, R, SQL for data analysis and machine learning.
+#### 💻 Proficient in Python, R, SQL for data analysis and machine learning.
 
-### 📊 Skilled in data visualization using Matplotlib, Seaborn, and Plotly.
+#### 📊 Skilled in data visualization using Matplotlib, Seaborn, and Plotly.
 
-### 🔬 Experienced in applying statistical methods.
+#### 🔬 Experienced in applying statistical methods.
 
-### 📧 Let's connect! nvengatesh486@gmail.com
+#### 📧 Let's connect! nvengatesh486@gmail.com
 
