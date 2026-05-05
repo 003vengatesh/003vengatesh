@@ -3,8 +3,6 @@
 
 ## About Me 👨‍💼
 
-#### 🎓 Data Science Intern at CodSoft.
-
 #### 🚀 Aspiring Data Scientist with a passion for transforming data into actionable insights.
 
 #### 💻 Proficient in Python, R, SQL for data analysis and machine learning.
